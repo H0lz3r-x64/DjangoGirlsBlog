@@ -1,3 +1,3 @@
 # DjangoGirlsBlog
 
-[Dajngo Girls Blog Tutorial](https://tutorial.djangogirls.org/de/) nachprogrammiert.
+[Django Girls's Blog Tutorial](https://tutorial.djangogirls.org/de/) nachprogrammiert.
